@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8f090334b20396e7fe34cbbc38b7c0abab298c7a
-ms.sourcegitcommit: e75c17571eeb658ade5cc6ba910a3f3fc66eaa10
+ms.openlocfilehash: 1c1ae64c8bad8446decd805774125a50f60b9b0e
+ms.sourcegitcommit: 40ae616e7aa9332ac6866f8e127ec824787ffe8f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/18/2022
-ms.locfileid: "136897669"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "138468601"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Sviluppo di soluzioni per Microsoft Azure
 
@@ -13,12 +13,19 @@ ms.locfileid: "136897669"
 > **Nota**: di seguito sono disponibili nuove istruzioni per scaricare il file *allfiles.zip*. Il processo di compilazione automatizzato è offline.
 
 - **Indirizzare gli studenti** a [https://aka.ms/az204labs](https://aka.ms/az204labs) per un elenco di istruzioni di lab di facile utilizzo.
-- **[Scaricare il contenuto di AllFiles](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220106.zip)**
+- **[Scaricare il contenuto di AllFiles](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220211.zip)**
 - **Si è un Microsoft Certified Trainer?** - Esaminare la [guida per utenti di GitHub per Microsoft Certified Trainer](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **È necessario compilare manualmente le istruzioni del lab?** - Le istruzioni sono disponibili nel repository [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) 
 <!-- 
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**-->
+
+## <a name="security-issue---february-2022"></a>Problema di sicurezza - Febbraio 2022
+
+Alcuni lab per la formazione di Azure indicano allo studente di usare un nome utente e una password specifici. Esistono utenti malintenzionati che analizzano costantemente le macchine virtuali e tentano di accedere usando tali credenziali.
+Quando riescono ad accedere, usano tali macchine virtuali per il mining di criptovalute e potrebbero potenzialmente usarle per altre attività.
+
+**Correzione**: richiedere agli studenti di usare una password scelta da loro. Gli studenti non devono usare la password indicata nelle istruzioni del lab. I passaggi del lab verranno aggiornati questa settimana per rimuovere la password. 
 
 ## <a name="what-are-we-doing"></a>Quali attività vengono svolte?
 
