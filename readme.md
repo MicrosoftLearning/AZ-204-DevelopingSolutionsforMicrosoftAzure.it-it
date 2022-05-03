@@ -1,24 +1,20 @@
 ---
-ms.openlocfilehash: 1c1ae64c8bad8446decd805774125a50f60b9b0e
-ms.sourcegitcommit: 40ae616e7aa9332ac6866f8e127ec824787ffe8f
+ms.openlocfilehash: a0384c399e26652e2516e9e6a16b6b892cd0e8b0
+ms.sourcegitcommit: 59c540737d0d7c14e6b56805afed30f1df1561f8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "138468601"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "144341258"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Sviluppo di soluzioni per Microsoft Azure
 
 **Tutte le istruzioni del lab sono state aggiornate il 15/10/2021.** Microsoft chiuderà tutti i problemi attualmente aperti e le richieste di verifica e incoraggerà tutti a esaminare le nuove istruzioni e quindi a inviare le nuove modifiche in futuro.
 
-> **Nota**: di seguito sono disponibili nuove istruzioni per scaricare il file *allfiles.zip*. Il processo di compilazione automatizzato è offline.
+> **Nota**: gli studenti devono essere indirizzati alla sincronizzazione del repository se non vengono forniti tutti i file tramite il provider di hosting del lab. 
 
 - **Indirizzare gli studenti** a [https://aka.ms/az204labs](https://aka.ms/az204labs) per un elenco di istruzioni di lab di facile utilizzo.
-- **[Scaricare il contenuto di AllFiles](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220211.zip)**
 - **Si è un Microsoft Certified Trainer?** - Esaminare la [guida per utenti di GitHub per Microsoft Certified Trainer](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **È necessario compilare manualmente le istruzioni del lab?** - Le istruzioni sono disponibili nel repository [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) 
-<!-- 
-
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**-->
 
 ## <a name="security-issue---february-2022"></a>Problema di sicurezza - Febbraio 2022
 
