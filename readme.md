@@ -1,21 +1,12 @@
----
-ms.openlocfilehash: 40d663462e7e48bf5baeb118e1da99d4ebf89c86
-ms.sourcegitcommit: b3c9969e988713afd5bfcfa551d5986d914edf2e
-ms.translationtype: HT
-ms.contentlocale: it-IT
-ms.lasthandoff: 06/23/2022
-ms.locfileid: "146565021"
----
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Sviluppo di soluzioni per Microsoft Azure
 
-**Tutte le istruzioni del lab sono state aggiornate il 15/10/2021.** Microsoft chiuderà tutti i problemi attualmente aperti e le richieste di verifica e incoraggerà tutti a esaminare le nuove istruzioni e quindi a inviare le nuove modifiche in futuro.
+**Le istruzioni del lab, il codice scaricabile e la macchina virtuale sono stati aggiornati il 8/5/2022 a .NET 6. Stiamo monitorando i problemi relativi a questo aggiornamento e stiamo lavorando con i provider di hosting del lab per provare a provare e risolvere eventuali problemi appena possibile.**
 
 > **Nota**: gli studenti devono essere indirizzati alla sincronizzazione del repository se non vengono forniti tutti i file tramite il provider di hosting del lab. 
 
 - **Indirizzare gli studenti** a [https://aka.ms/az204labs](https://aka.ms/az204labs) per un elenco di istruzioni di lab di facile utilizzo.
 - **Si è un Microsoft Certified Trainer?** - Esaminare la [guida per utenti di GitHub per Microsoft Certified Trainer](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **È necessario compilare manualmente le istruzioni del lab?** - Le istruzioni sono disponibili nel repository [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) 
-- È stato aggiunto un [progetto](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/projects/1) per tenere traccia dello stato di avanzamento dei problemi o delle richieste pull.
 
 ## <a name="security-issue---february-2022"></a>Problema di sicurezza - Febbraio 2022
 
