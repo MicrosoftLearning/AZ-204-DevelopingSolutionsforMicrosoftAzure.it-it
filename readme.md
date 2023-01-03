@@ -1,6 +1,6 @@
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Sviluppo di soluzioni per Microsoft Azure
 
-**Le istruzioni del lab, il codice scaricabile e la macchina virtuale sono stati aggiornati il 8/5/2022 a .NET 6. Stiamo monitorando i problemi relativi a questo aggiornamento e stiamo lavorando con i provider di hosting del lab per provare a provare e risolvere eventuali problemi appena possibile.**
+**Le istruzioni del lab, il codice scaricabile e la macchina virtuale sono state aggiornate il 05/08/2022 a .NET 6. Microsoft tiene monitorati i problemi relativi a questo aggiornamento e collabora con i provider di hosting del lab per provare a risolvere eventuali problemi nel modo più rapido possibile.**
 
 > **Nota**: gli studenti devono essere indirizzati alla sincronizzazione del repository se non vengono forniti tutti i file tramite il provider di hosting del lab. 
 
@@ -11,7 +11,7 @@
 ## <a name="security-issue---february-2022"></a>Problema di sicurezza - Febbraio 2022
 
 Alcuni lab per la formazione di Azure indicano allo studente di usare un nome utente e una password specifici. Esistono utenti malintenzionati che analizzano costantemente le macchine virtuali e tentano di accedere usando tali credenziali.
-Quando riescono ad accedere, usano tali macchine virtuali per il mining di criptovalute e potrebbero potenzialmente usarle per altre attività.
+Quando riescono ad accedere, usano tali macchine virtuali per eseguire il mining delle criptovalute, che potrebbero potenzialmente usare per altre attività.
 
 **Correzione**: richiedere agli studenti di usare una password scelta da loro. Gli studenti non devono usare la password indicata nelle istruzioni del lab. I passaggi del lab verranno aggiornati questa settimana per rimuovere la password. 
 
