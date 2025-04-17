@@ -15,3 +15,4 @@ In basso sono elencati i collegamenti ipertestuali a tutti i lab.
 | --- | --- |
 {% per l'attività nei lab %} {% se activity.lab.az204Module %}| {{ activity.lab.az204Module }} | [{{ activity.lab.az204Title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endif %}{% endfor %}
+
